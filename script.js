@@ -1,5 +1,5 @@
 // Javascript code goes here
-
+// common function for all three buttons
 function pizzaClickButtonEvent(id) {
     if (id === "papa") {
         location.href = 'https://www.papajohns.com';
